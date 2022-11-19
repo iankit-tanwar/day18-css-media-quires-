@@ -1,2 +1,2 @@
-# day18-css-media-quires-
-(ss media quires
+# day18-css-media-queies-
+(ss media queies
