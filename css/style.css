@@ -1,0 +1,29 @@
+
+
+
+@media only screen and (min-width:0px) and (max-width:500px){
+    [data-mybox="mybox"]{
+        width: 200px;
+        height: 200px;
+        background: rgb(239, 50, 50);
+    }
+
+}
+@media only screen and (min-width:501px) and (max-width:900px){
+    [data-mybox="mybox"]{
+        width: 400px;
+        height: 400px;
+        background: rgb(26, 183, 211);
+    }
+
+
+}
+@media only screen and (min-width:901px) and (max-width:1400px){
+    [data-mybox="mybox"]{
+        width: 600px;
+        height: 600px;
+        background: rgb(113, 210, 77);
+    }
+
+
+}
